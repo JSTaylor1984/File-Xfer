@@ -5,3 +5,5 @@ https://geico365.sharepoint.com/sites/NPMCHomeSpecHandling/Lists/Manual%20Mail%2
 Higher Limits
 
 https://geico365.sharepoint.com/sites/AutoService/Lists/Auto%20Service%20Underwriting%20Review%20Requests/AllItems.aspx?env=WebViewList&npsAction=createList&CT=1786384618740&OR=OWA-NT-Mail&CID=76050908-682e-079c-4972-abd31c7f2b42&SI=NonSentItems&SLSync=F
+
+{abbr:"MA", name:"Massachusetts", action:"Payments & Billing ONLY", dp1_reprints:"uwpr@geico.com", underwriting:"uw8@geico.com", move:"Please transfer to Service", cancellation:"Requires written request*", reissue:"Transfer to Reissue department-- QC024", DDC:"Not Available", LIABILITY:"Yes, motor vehicle owners are required to maintain motor vehicle liability and no-fault insurance on their vehicles.", TAGS:'Yes, See <a href="https://knowledgehive.cloud.geico.net/articles/Knowledge/Massachusetts-Insurance-Requirements" target="_blank" rel="noopener noreferrer">Massachusetts Insurance Requirements</a>'},
