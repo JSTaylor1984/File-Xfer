@@ -1,7 +1,3 @@
-Edars
-Emails GEICO sent to Customers
-https://peopd1slb03.geico.net/
-
-FileNet
-Emails Customers sent to GEICO
-https://www.automationcloud.ibm.com/auth/index.jsp?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&URL=%2Fdba%2Frun%2Fnavigator%2F%3Fdesktop%3DPolicy%26sideChrome%3D0&REFERER=&HOSTNAME=geicoicm-bacsoc.automationcloud.ibm.com&PROTOCOL=https
+NPMC Home Special Handling
+Request paper mailings sent to customer
+https://geico365.sharepoint.com/sites/NPMCHomeSpecHandling/Lists/Manual%20Mail%20Requests%201/AllItems1.aspx
